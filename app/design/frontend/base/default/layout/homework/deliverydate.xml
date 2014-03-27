@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <checkout_onepage_additional>
+        <reference name="root">
+            <block type="homework_deliverydate/inline" name="checkout.onepage.shipping_method.additional.deliverydate" as="deliverydate" />
+        </reference>
+    </checkout_onepage_additional>
+</layout>
